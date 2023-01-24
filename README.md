@@ -1,7 +1,14 @@
-afox-001-20211005-spg1000m
+spg_1000m_boundary_fluxes
 ==============================
 
-Modelled transports across the 1000m contour in the North Atlantic subpolar gyre
+This repository contains data and jupyter notebooks used in the analysis of GEOMAR Viking20x model data for the paper:
+
+Observation-based estimates of volume, heat and freshwater exchanges between the subpolar North Atlantic interior, its boundary currents and the atmosphere.
+Sam C. Jones, Neil J. Fraser, Stuart A. Cunningham, Alan D. Fox, and Mark E. Inall. Ocean Science, 2023.
+
+In particular for the production of Figure 7.
+
+
 
 Project Organization
 ------------
